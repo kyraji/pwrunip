@@ -1,0 +1,32 @@
+#main{
+    background-color: rgb(109, 109, 109);
+    color: white;
+    border-radius: 10mm;
+    align-self: center;
+    margin: 10%;
+    width: auto;
+    height: 50mm;
+    text-align: center;
+    border-style:double;
+}
+
+#links{
+    text-align: center;
+    padding:1cm;
+    align-content: center;
+}
+
+h3{
+    margin-top: 15mm;
+    color:cyan
+}
+
+
+a{
+    border-radius: 20mm;
+    align-self: center;
+    margin:auto;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
